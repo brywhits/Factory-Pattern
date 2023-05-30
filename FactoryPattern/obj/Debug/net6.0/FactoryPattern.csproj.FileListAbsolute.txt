@@ -1,0 +1,15 @@
+/Users/bryantwhitsett/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.csproj.AssemblyReference.cache
+/Users/bryantwhitsett/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bryantwhitsett/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfoInputs.cache
+/Users/bryantwhitsett/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfo.cs
+/Users/bryantwhitsett/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.csproj.CoreCompileInputs.cache
+/Users/bryantwhitsett/repos/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern
+/Users/bryantwhitsett/repos/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.deps.json
+/Users/bryantwhitsett/repos/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.runtimeconfig.json
+/Users/bryantwhitsett/repos/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.dll
+/Users/bryantwhitsett/repos/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.pdb
+/Users/bryantwhitsett/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.dll
+/Users/bryantwhitsett/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/refint/FactoryPattern.dll
+/Users/bryantwhitsett/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.pdb
+/Users/bryantwhitsett/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.genruntimeconfig.cache
+/Users/bryantwhitsett/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/ref/FactoryPattern.dll
